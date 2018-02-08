@@ -1,0 +1,9 @@
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\bin\Debug\netcoreapp2.0\EntityFrameworkCore.deps.json
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\bin\Debug\netcoreapp2.0\EntityFrameworkCore.dll
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\bin\Debug\netcoreapp2.0\EntityFrameworkCore.pdb
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.dll
+C:\Users\zzzili\Desktop\YFAPICommonCore\EntityFrameworkCore\obj\Debug\netcoreapp2.0\EntityFrameworkCore.pdb

@@ -1,0 +1,14 @@
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.deps.json
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.runtimeconfig.json
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.runtimeconfig.dev.json
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.dll
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.pdb
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\EntityFrameworkCore.dll
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\EntityFrameworkCore.pdb
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.csprojResolveAssemblyReference.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.csproj.CoreCompileInputs.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.AssemblyInfoInputs.cache
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.AssemblyInfo.cs
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.dll
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\obj\Debug\netcoreapp2.0\YFAPICommonCore.pdb
+C:\Users\zzzili\Desktop\YFAPICommonCore\YFAPICommonCore\bin\Debug\netcoreapp2.0\YFAPICommonCore.xml

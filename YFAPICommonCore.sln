@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFAPICommonCore", "YFAPICommonCore\YFAPICommonCore.csproj", "{A9FA7304-8CA3-4D0F-BCA4-3FAD33195DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore", "EntityFrameworkCore\EntityFrameworkCore.csproj", "{F10F0FA1-1212-4B90-8E46-9A1D2D2D85AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FA7304-8CA3-4D0F-BCA4-3FAD33195DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FA7304-8CA3-4D0F-BCA4-3FAD33195DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FA7304-8CA3-4D0F-BCA4-3FAD33195DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FA7304-8CA3-4D0F-BCA4-3FAD33195DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10F0FA1-1212-4B90-8E46-9A1D2D2D85AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10F0FA1-1212-4B90-8E46-9A1D2D2D85AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10F0FA1-1212-4B90-8E46-9A1D2D2D85AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10F0FA1-1212-4B90-8E46-9A1D2D2D85AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B42AC4F-7FA3-4C4E-B641-6468E2B1C109}
+	EndGlobalSection
+EndGlobal
