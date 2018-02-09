@@ -3471,11 +3471,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzzili\\Desktop\\YFAPICommonCore\\EntityFrameworkCore\\EntityFrameworkCore.csproj",
+      "projectUniqueName": "C:\\Users\\zzzili\\Documents\\Visual Studio 2015\\Projects\\YFAPICommon\\YFAPICommonCore\\EntityFrameworkCore\\EntityFrameworkCore.csproj",
       "projectName": "EntityFrameworkCore",
-      "projectPath": "C:\\Users\\zzzili\\Desktop\\YFAPICommonCore\\EntityFrameworkCore\\EntityFrameworkCore.csproj",
+      "projectPath": "C:\\Users\\zzzili\\Documents\\Visual Studio 2015\\Projects\\YFAPICommon\\YFAPICommonCore\\EntityFrameworkCore\\EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\zzzili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzzili\\Desktop\\YFAPICommonCore\\EntityFrameworkCore\\obj\\",
+      "outputPath": "C:\\Users\\zzzili\\Documents\\Visual Studio 2015\\Projects\\YFAPICommon\\YFAPICommonCore\\EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
